@@ -1,0 +1,775 @@
+    1  sudo apt update
+    2  pwd
+    3  ls
+    4  cd Downloads
+    5  ls
+    6  cp -R Lab-Play-Files.tar /home/henry
+    7  cd home/henry
+    8  cd ~
+    9  cd /home
+   10  cd /henry
+   11  ls
+   12  cd henry
+   13  ls
+   14  cd ..
+   15  ls
+   16  cd Desktop
+   17  mkdir Labwork
+   18  cd LabWork
+   19  mkdir OSLAb1
+   20  cd OSLAb 1
+   21  cd OSLAb1
+   22  cd ..
+   23  cd Downloads
+   24  ls
+   25  cp -R Lab-Play-Files.tar /home/henry
+   26  cd /home/henry
+   27  ls
+   28  mkdir OSLAb1
+   29  ls
+   30  cp -R Lab-Play-Files.tar /home/henry/OSLab1
+   31  cd OSLAb1
+   32  ls
+   33  cd ..
+   34  ls
+   35  rmdir OSLab1
+   36  ls
+   37  rm OSLab1
+   38  ls
+   39  rm OSLab1
+   40  tar xvf Lab-Play-Files.tar 
+   41  ls
+   42  cd play
+   43  ls
+   44  cat IChing
+   45  date
+   46  pwd
+   47  who am i
+   48  cd ..
+   49  who am i
+   50  cd play
+   51  whoami
+   52  ls
+   53  who
+   54  ls -l | wc -l
+   55  ls -l /etc | wc -l
+   56  ls -l *[1234567890]
+   57  mAN LS
+   58  man ls
+   59  ls -l *[ua]
+   60  ls -l *[u]
+   61  ls -l *[3]
+   62  ls -l *[]
+   63  ls -l *[1]
+   64  ls -l *[2]
+   65  ls -l *[12]
+   66  ls > file1
+   67  cat file1
+   68  ls -l | wc -l *[0123456789]
+   69  wc *[0123456789]
+   70  wc -l *[0123456789]
+   71  wc 
+   72  ls -l *[0123456789]
+   73  ls -l *[0-9]
+   74  wc -l *[0-9]
+   75  ls 
+   76  ls /etc
+   77  cd /etc
+   78  cd play
+   79  cd .. 
+   80  cd play
+   81  ~
+   82  ls
+   83  cd home
+   84  cd /home/henry
+   85  cd play
+   86  ls /etc cat fuse.conf
+   87  cd /etc
+   88  ls
+   89  cat deluser.conf
+   90  cd /home/henry/play
+   91  ps
+   92  ps -f
+   93  man ps
+   94  ps -e
+   95  pd -ef
+   96  ps -ef
+   97  cd /home/henry
+   98  cd
+   99  mkdir unix
+  100  ls
+  101  date
+  102  cd .. report/style
+  103  cd unix
+  104  mkdir report
+  105  ls
+  106  mkdir style
+  107  ls
+  108  rmdir style
+  109  ls
+  110  cd report
+  111  mkdir style
+  112  cd .
+  113  mkdir george
+  114  cd .. 
+  115  mkdir text
+  116  ls
+  117  rmdir text
+  118  ls
+  119  cd report
+  120  ls 
+  121  rmdir george
+  122  mkdir text
+  123  cd style
+  124  mkdir george
+  125  ls
+  126  man touch
+  127  touch file1 file2 file3
+  128  ls
+  129  cd ..
+  130  ls -F
+  131  ls -F unix/report/style
+  132  cd unix/report/style
+  133  ls
+  134  rm file1 file2 file3
+  135  ls
+  136  touch a b c d e f g foobar
+  137  ls
+  138  cd ..
+  139  man cp
+  140  cd unix
+  141  mkdir new
+  142  cd ..
+  143  cp -r unix/report/stle . unix/new
+  144  cp -r unix/report/style . unix/new
+  145  cp -r unix/report/style unix/new
+  146  cd unix
+  147  cd new
+  148  ls
+  149  cd ..
+  150  rmdir new
+  151  sudo rmdir new
+  152  ls
+  153  cdd newq
+  154  cd new
+  155  ls
+  156  rm Lab-Play-Files.tar 
+  157  rmdir OSLab1
+  158  cd style
+  159  ls
+  160  rmdir play
+  161  cd ..
+  162  rmdir new
+  163  cd new
+  164  ls
+  165  rmdir unix
+  166  cd unix
+  167  ls
+  168  rmdir new
+  169  cd new
+  170  ls
+  171  cd /home/henry
+  172  ls
+  173  rmdir -r unix
+  174  man rmdir
+  175  rm -r unix
+  176  ls
+  177  mkdir unix
+  178  cd unix
+  179  mkdir report
+  180  cd report
+  181  mkdir style
+  182  mkdir text
+  183  cd style
+  184  mkdir george
+  185  touch a b c d e f g foobar
+  186  ls
+  187  cd ~
+  188  cd unix
+  189  ls
+  190  mkdir new
+  191  ls
+  192  cd ..
+  193  cp -r style new
+  194  cp -r /unix/report/style/* /unix/new
+  195  cp -r unix/report/style/* unix/new
+  196  ls
+  197  cd unix
+  198  ls
+  199  cd new
+  200  ls
+  201  rm foobar
+  202  cd ..
+  203  rm -r new
+  204  ls
+  205  mkdir newReport
+  206  man mv
+  207  mv report newReport
+  208  ls
+  209  cd ..
+  210  cd play
+  211  man uniq
+  212  cd ..
+  213  vi new.txt
+  214  cd ~
+  215  ls -l | wc -l
+  216  ls | wc -ls
+  217  ls | wc -l
+  218  cd unix
+  219  cd .
+  220  cd $home
+  221  cd unix
+  222  cd /home
+  223  cd/home/henry
+  224  cd /home/henry
+  225  cd unix
+  226  cd newReport
+  227  cd /home/henry
+  228  cd unix/newReport
+  229  cd /..
+  230  ls
+  231  cd /home/henry
+  232  cd unix/nrereport
+  233  cd unix/newReport
+  234  cd /../home
+  235  cd $home
+  236  Ehome
+  237  $home
+  238  cd lhomel henry
+  239  cd /home/henry
+  240  ls
+  241  cp -r play 
+  242  cp -r play /home/henry
+  243  cd play
+  244  ls
+  245  cat README
+  246  less README
+  247  cd lhomelhenry
+  248  cd play
+  249  cd /home/henry
+  250  cd play
+  251  man more
+  252  more README
+  253  less README
+  254  cd /home/henry
+  255  ls
+  256  ls -l
+  257  cd ..
+  258  ls -l
+  259  cd /home/henry
+  260  ls -l
+  261  cd unix
+  262  touch permfile
+  263  ls
+  264  cd ..
+  265  ls
+  266  cp -r /home/henry/play/* /home/henry/unix/
+  267  cd unix
+  268  ls
+  269  chmod 000 README
+  270  chmod 666 gen
+  271  chmod 444 pubs
+  272  chmod 777 permfile
+  273  ls -l
+  274  cat README
+  275  ./gen
+  276  kill %1
+  277  chmod u+r README
+  278  chmod a+x gen
+  279  ls -l
+  280  cd ..
+  281  mkdir adir
+  282  touch afile
+  283  ls -l
+  284  umask
+  285  umask 577
+  286  touch afile1 afile2
+  287  ls -l
+  288  cd /var/tmp/henry
+  289  ls -l
+  290  cd unix
+  291  ed newfile
+  292  cat newfile
+  293  ls -l
+  294  umask 022
+  295  chmod 644 newfile
+  296  cat newfile
+  297  cd ..
+  298  ls
+  299  ls -l
+  300  cd ..
+  301  ls
+  302  cd tmp
+  303  ls
+  304  ls -l
+  305  cd ..
+  306  cd /home/henry
+  307  cd play
+  308  ed -p: IChing
+  309  ls
+  310  ed -p README
+  311  cat README
+  312  ed -p: README
+  313  ed README
+  314  ed -p: README
+  315  touch a
+  316  ed -p: a
+  317  ed -p: README
+  318  cd /home/henry
+  319  cd ..
+  320  ls
+  321  cdmnt
+  322  cd mnt
+  323  cd c
+  324  cd /Users/Training
+  325  cd Users/Training
+  326  ls -l
+  327  ls -a
+  328  ls -h
+  329  ls -g
+  330  cd /home/henry
+  331  touch new1
+  332  ls
+  333  ls -l
+  334  _
+  335  ~
+  336  cd ~
+  337  cd play
+  338  ./gen 
+  339  cd ~
+  340  set
+  341  setenv
+  342  env
+  343  henry=shell
+  344  export osei=environment
+  345  echo henry
+  346  echo $henry
+  347  echo $osei
+  348  sh
+  349  $osei
+  350  agyemang = envi
+  351  agyemang=envi
+  352  export agyemang
+  353  sh
+  354  ls
+  355  cd adir
+  356  touch file* he??o $path -t helloworld
+  357  touch file* he??o $path -t hello world
+  358  ls
+  359  nano newT
+  360  w
+  361  cd ..
+  362  cd play
+  363  ls -l
+  364  cd ..
+  365  ls -l | wc *d
+  366  find -type d | ec -l
+  367  find -type d | wc -l
+  368  cd play
+  369  find -type d | wc -l
+  370  find -type f | wc -l
+  371  cd ..
+  372  cd adir
+  373  ls
+  374  find -type f | wc -l
+  375  find -type d | wc -l
+  376  cd ..
+  377  find /home/henry/play/ -type f | wc -l
+  378  find /home/henry/play/ -type d | wc -l
+  379  cd play
+  380  ls -d*/ | wc -l
+  381  ls -d */ | wc -l
+  382  cd ..
+  383  ls -d */ | wc -l
+  384  ls
+  385  ls -f */ | wc -l
+  386  ls *.* | wc -l
+  387  find . -type f | wc -l
+  388  find *.* -type f | wc -l
+  389  find /home/henry -type f | wc -l
+  390  ls -type f
+  391  ls -f
+  392  ls -lf
+  393  ls -l | grep ^d | wc -l
+  394  cd play
+  395  find 
+  396  ls
+  397  ls -l | grep ^f | wc -l
+  398  ls -l | grep ^- | wc -l
+  399  find -maxdepth 0 -type d | wc -l
+  400  find -maxdepth 0 -type f | wc -l
+  401  find -maxdepth 0 -type - | wc -l
+  402  find -maxdepth 0 -type d | wc -l
+  403  clear
+  404  find /home/henry/play/ -type f | ls *p | wc -l
+  405  find /home/henry/play/ -type f | ls *[0-9] | wc -l
+  406  cd ..
+  407  ls
+  408  cd adir
+  409  ls
+  410  mkdir ab1
+  411  mkdir ab
+  412  touch ab a1 a2 a3
+  413  ls
+  414  find ./ -type f | ls *[0-9] | wc -l
+  415  find -type f | ls *[0-9] | wc -l
+  416  find /home/henry/adir -type f | ls *[0-9] | wc -l
+  417  ls -l
+  418  ls -ah
+  419  ls -alh
+  420  find -type f | wc -l *[0-9]
+  421  ls *[0-9] | w -l
+  422  ls *[0-9] | wc -l
+  423  ls -l | wc -l *[0-9]
+  424  cd ..
+  425  rm adir
+  426  rm -r adir
+  427  iuhj
+  428  cd /home/henry
+  429  ls
+  430  cd unix
+  431  ls
+  432  cp userlist userlist1
+  433  ls
+  434  cp userlist userlist2
+  435  sort userlist2 > userlist3
+  436  cat userlist2
+  437  cat userlist3
+  438  cat userlist1
+  439  sort userlist1 > userlist1
+  440  cat userlist1
+  441  ls -s
+  442  ls -ls
+  443  ls -S
+  444  man sort
+  445  ls -lR | grep '^-' | sort -k 5 -rn
+  446  ls -R | grep '^-' | sort -k 5 -rn
+  447  grep '^-' | sort -k 5 -r
+  448  ls *[0-9]
+  449  ls *[A-Z]
+  450  ls
+  451  ls *[A-Z]*
+  452  ls ????
+  453  ls ??????
+  454  ls | grep '^-' | sort -k 5 -rn
+  455  ls -aR | grep '^-' | sort -k 5 -rn
+  456  ls
+  457  ls -lR | sort -k 5 -rn
+  458  sort -k 5 -rn
+  459  man ls
+  460  echo $SHELL
+  461  echo $PATH 
+  462  ps
+  463  ps -e
+  464  psd -ef
+  465  ps -ef
+  466  sleep 5 &
+  467  ps
+  468  ls
+  469  ed -p: README
+  470  sed README
+  471  sed -p: README
+  472  sed 's/README/readme/' README
+  473  sed '5d' userlist
+  474  cat userlist
+  475  sed '5' userlist
+  476  sed '5p' userlist
+  477  sed 'p5' userlist
+  478  sed '5,5p' userlist
+  479  sed '=' userlist
+  480  sed '=5' userlist
+  481  sed 's/\[5]\/
+  482  sed 's/\[5]\/g' userlist
+  483  sed 's/(\[5]\)/g' userlist
+  484  sed 's/(\[5]\)/$\1/g' userlist
+  485  sed 's/([5]\/$\1/g' userlist
+  486  sed '/5/p' userlist
+  487  cat userlist
+  488  sed -n '/user4/p' userlist
+  489  sed -n '5p' userlist
+  490  sed -n '/dup/p' userlist >> duplist
+  491  cat duplist
+  492  sed -n '/ttyp[0-9]/p' userlist
+  493  sed 's/\(ttyp\)\([0-9]\)/\1\t\2/' userlist
+  494  cd ~
+  495  (/bin/sleep 5; echo it will take about an hour)
+  496  (/bin/sleep 600; process 1)
+  497  (/bin/sleep 600; echo process 1) &
+  498  (/bin/sleep 600; echo process 2) &
+  499  (/bin/sleep 600; echo process 3) &
+  500  ps
+  501  jobs
+  502  (/bin/sleep 600; echo process 4) 
+  503  jobs
+  504  fg %4
+  505  fg %2
+  506  jobs
+  507  bg %4
+  508  jobs
+  509  kill %1
+  510  jobs
+  511  vi newT
+  512  jobs
+  513  fg %5
+  514  jobs
+  515  ps -ef
+  516  cd ~
+  517  ps -u
+  518  ps -ely
+  519  who
+  520  pwd
+  521  .
+  522  cd .
+  523  clear
+  524  man mkfile
+  525  man elph
+  526  man help
+  527  man man
+  528  ls --all
+  529  cs unix
+  530  cd unix
+  531  ls
+  532  mkdir test
+  533  cd test
+  534  touch a b
+  535  ls > bar
+  536  cat bar
+  537  cd BCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC~
+  538  cd ~
+  539  ls -e
+  540  ls -d
+  541  ls
+  542  ls -f
+  543  man rm
+  544  cd unix/
+  545  ls
+  546  cd ..
+  547  mkdir test
+  548  cd test
+  549  touch file1
+  550  mkdir newdir
+  551  mv file1 newdir/file2
+  552  cd newdir
+  553  ls
+  554  cd ..
+  555  ls
+  556  rm -r newdir
+  557  ls
+  558  touch library.bak library.c library.h prog.bak prog.c prog.h
+  559  ls
+  560  cp *.c *.bak
+  561  ls
+  562  ls lp*
+  563  ls 'lp*'
+  564  ls -l 'lp'
+  565  ls -l "lp*"
+  566  man kill
+  567  $PATH
+  568  man sort
+  569  cd ..
+  570  cd test
+  571  ls
+  572  touch abchkjfkhf abclgllgh abclkkjkjkj abclkklklkl vjf kkkf kkg
+  573  touch a
+  574  touch b
+  575  touch c
+  576  ls abc*
+  577  grep abc*
+  578  grep abc* ./*
+  579  ls | grep abc*
+  580  cd
+  581  ping google.com
+  582  sudo apt-get update
+  583  sudo apt-get update && sudo apt-get upgrade -y
+  584  sudo apt-get install gdb
+  585  cd codes
+  586  gcc -g -w mean.cpp
+  587  gdb mean.out
+  588  cd ..
+  589  cd breakout
+  590  mkdir breakout
+  591  cd breakout
+  592  git clone https://github.com/Godwin-turntabl/group4
+  593  git checkout -b henrybranch
+  594  git add .
+  595  ls
+  596  cd group4
+  597  git checkout -b henrybranch
+  598  touch henry
+  599  nano henry
+  600  rm henry
+  601  nano henry.cpp
+  602  git status
+  603  git add henry.cpp
+  604  git status
+  605  git commit -m "Henry's Commit"
+  606  sudo git commit -m "Henry's Commit"
+  607  sudo git status
+  608  sudo git push origin henrybranch
+  609  git push origin henrybranch
+  610  sudo git push origin henrybranch
+  611  cd ~
+  612  mkdir pl2
+  613  cd pl2
+  614  nano enu
+  615  g++ enu.cpp -o enu.out
+  616  nano enu
+  617  g++ enu.cpp -o enu.out
+  618  ./enu.out
+  619  nano numlit.cpp
+  620  g++ numlit.cpp -o numlit.out
+  621  nano numlit.cpp
+  622  g++ numlit.cpp -o numlit.out
+  623  nano numlit.cpp
+  624  g++ numlit.cpp -o numlit.out
+  625  nano numlit.cpp
+  626  g++ numlit.cpp -o numlit.out
+  627  nano numlit.cpp
+  628  g++ numlit.cpp -o numlit.out
+  629  ./numlit.out
+  630  nano liter
+  631  g++ liter.cpp -o liter.out
+  632  ./liter.out
+  633  nano enu
+  634  nano enu.cpp
+  635  ls
+  636  nano enu.cpp
+  637  cat nano.cpp
+  638  ls
+  639  cat enu.cpp
+  640  nano enu.cpp
+  641  g++ enu.cpp -o enu.out
+  642  ./enu.out
+  643  nano enu.cpp
+  644  g++ enu.cpp -o enu.out
+  645  ./enu.out
+  646  nano con.cpp
+  647  ls
+  648  nano numlit.cpp
+  649  nano con.cpp
+  650  g++ con.cpp -o con.out
+  651  ./con.out
+  652  nano con.cpp
+  653  g++ con.cpp -o con.out
+  654  nano con.cpp
+  655  g++ con.cpp -o con.out
+  656  ./con.out
+  657  nano strings.cpp
+  658  g++ strings.cpp -o strings.out
+  659  nano strings.cpp
+  660  g++ strings.cpp -o strings.out
+  661  nano strings.cpp
+  662  g++ strings.cpp -o strings.out
+  663  ./strings.out
+  664  nano arrstring.cpp
+  665  g++ arrstring.cpp -o arrstring.out
+  666  nano arrstring.cpp
+  667  g++ arrstring.cpp -o arrstring.out
+  668  ./arrstring.out
+  669  nano arrstring.cpp
+  670  g++ arrstring.cpp -o arrstring.out
+  671  nano arrstring.cpp
+  672  g++ arrstring.cpp -o arrstring.out
+  673  ./arrstring.out
+  674  nano nocro.cpp
+  675  g++ nocro.cpp -o nocro.out
+  676  nano nocro.cpp
+  677  g++ nocro.cpp -o nocro.out
+  678  nano nocro.cpp
+  679  ./nocro.out
+  680  nano nocro.cpp
+  681  g++ nocro.cpp -o nocro.out
+  682  ./nocro.out
+  683  nano nocro.cpp
+  684  cd ..
+  685  git clone https://github.com/Henosagy/turntablelabs.git
+  686  ls
+  687  git add .
+  688  ls
+  689  cd ..
+  690  cd ~
+  691  cd turntablellabs
+  692  cd turntablelabs
+  693  ls
+  694  mv ./pl2 .
+  695  mv /home/henry/pl2 /home/henry/turntablelabs
+  696  ls
+  697  mv /home/henry/codes /home/henry/turntablelabs
+  698  mv /home/henry/play /home/henry/turntablelabs
+  699  mv /home/henry/unix /home/henry/turntablelabs
+  700  mv /home/henry/gitcm /home/henry/turntablelabs
+  701  mv /home/henry/breakout /home/henry/turntablelabs
+  702  mv /home/henry/test /home/henry/turntablelabs
+  703  ls
+  704  git add .
+  705  git status
+  706  git commit -m "Henry's Files"
+  707  sudo git commit -m "Henry's Files"
+  708  git status
+  709  sudo git push
+  710  cd ..
+  711  lsa
+  712  ls
+  713  cd turntablelabs
+  714  mv /home/henry/Lab-Play-Files.tar /home/henry/turntablelabs/
+  715  git add Lab-Play-Files.tar 
+  716  git commit -m "Lab Files"
+  717  sudo git commit -m "Lab Files"
+  718  git status
+  719  sudo git push
+  720  git status
+  721  cd codes
+  722  ls
+  723  cd ~
+  724  cd codes
+  725  man g++
+  726  gcc -g -w mean.cpp
+  727  /.a.out
+  728  ./a.out
+  729  ls
+  730  ./mean.out
+  731  gcc -g -w mean.cpp
+  732  gdb mean.out
+  733  sudo apt install gdb
+  734  sudo apt-get install gdb
+  735  sudo apt-get update && sudo apt-get upgrade -y
+  736  clear
+  737  ls
+  738  cd ..
+  739  ls
+  740  rm -r gitcm
+  741  cd gitcm
+  742  ls
+  743  rm -r group10repo/
+  744  ls
+  745  git clone https://github.com/DzifaHodey/group10repo.git
+  746  cd group10repo/
+  747  ls
+  748  sudo git checkout -b henrybranch
+  749  nano heny
+  750  git status
+  751  git add heny
+  752  git status
+  753  git commit -m "Henry Commit"
+  754  sudo git commit -m "Henry Commit"
+  755  git checkout master
+  756  git branch
+  757  git checkout main
+  758  git merge henrybranch
+  759  git branch -D henrybranch
+  760  git branch
+  761  git status
+  762  git push
+  763  git commit -m "Removed branch"
+  764  sudo git commit -m "Removed branch"
+  765  cd ..
+  766  ls
+  767  cd breakout/
+  768  ls
+  769  cd group4/
+  770  ls
+  771  git status
+  772  sudo git push origin henrybranch
+  773  cd ~
+  774  history
+  775  history > history.txt

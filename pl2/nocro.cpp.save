@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	char checkerboard[3][3];
+
+	for(int i=0; i<3; i++){
+		for(int j=0; j<3; j++){
+			checkerboard[i][j] = '?';
+		}
+	}
+
+	for(int a=0; a<3; b++){
+		cout << checkerboard[0][a] << " " << endl;
+	}
+
+	return 0;
+}
