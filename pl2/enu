@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+using namespace std;
+
+int main(){
+	enum colours{RED, YELLOW, AMBER=YELLOW, GREEN};
+	colours col1 = RED;
+	colours col2 = YELLOW;
+	colours col3 = AMBER;
+	colours col4 = GREEN;
+
+	cout << col1 << endl;
+	cout << col2 << endl;
+	cout << col3 << endl;
+	cout << col4 << endl;
+
+	return 0;
+}
